@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Leonardo Esparis</h1>
 <h3 align="center">Software Engineer on Fever</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ljesparis&label=Profile%20views&color=0e75b6&style=flat" alt="ljesparis" /> </p>
+</br>
 
+<div>
+  <a align="left" href="https://www.linkedin.com/in/leoesparis/"><img src="https://img.shields.io/badge/%20-LeonardoEsparis-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" /></a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=ljesparis&label=Profile%20views&color=0e75b6&style=flat" alt="ljesparis" /> 
+</div>
 
-- 🔭 I’m currently working on [Fever](https://feverup.com/)
+</br>
 
-- 🌱 I’m currently learning **Rust**, **Event-Driven architecture**, **Typescript** and **Python**
+🔭 I’m currently working on [Fever](https://feverup.com/)
 
-- 🌱 I’m currently learning: **Azure AI Services and Python**
+🌱 I’m currently learning **Rust**, **Event-Driven architecture**, **Typescript** and **Python**
 
-- 🎥 I’m building next: **I have no idea xD**
+🎥 I’m building next: **I have no idea xD**
 
 </br>
 
