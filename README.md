@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on [Fever](https://feverup.com/)
 
-🌱 I’m currently learning **Rust**, **Event-Driven architecture**, **Typescript** and **Python**
+🌱 I’m currently learning **Rust**, **Event-Driven architecture**, **Typescript**, **Python** and **vim**
 
 🎥 I’m building next: **I have no idea xD**
 
