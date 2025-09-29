@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leonardo Esparis</h1>
-<h3 align="center">Software Engineer on Fever</h3>
 
 </br>
 
 <div>
-  <a align="left" href="https://www.linkedin.com/in/leoesparis/"><img src="https://img.shields.io/badge/%20-LeonardoEsparis-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" /></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=ljesparis&label=Profile%20views&color=0e75b6&style=flat" alt="ljesparis" /> 
 </div>
 
