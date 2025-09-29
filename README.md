@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on [Fever](https://feverup.com/)
 
-🌱 I’m currently learning **Rust**, **Event-Driven architecture**, **Typescript**, **Python** and **vim**
+🌱 I’m currently learning **Event-Driven architecture**, **zig** and **vim**
 
 🎥 I’m building next: **I have no idea xD**
 
@@ -31,7 +31,7 @@
 </p>
 </details>
 
-<details><summary><b>Languages and Tools I've Used</b></summary>
+<details><summary><b>Languages and Tools I'm using</b></summary>
 <br>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,typescript,js,github,git,docker&perline=7" />
