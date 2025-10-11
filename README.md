@@ -8,7 +8,6 @@
 
 </br>
 
-🔭 I’m currently working on [Fever](https://feverup.com/)
 
 🌱 I’m currently learning **Event-Driven architecture**, **zig** and **vim**
 
