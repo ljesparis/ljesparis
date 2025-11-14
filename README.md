@@ -11,8 +11,6 @@
 
 🌱 I’m currently learning **Event-Driven architecture**, **zig** and **vim**
 
-🎥 I’m building next: **I have no idea xD**
-
 </br>
 
 <details><summary><b>My GitHub Stats and Streak</b></summary>
