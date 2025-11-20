@@ -9,7 +9,7 @@
 </br>
 
 
-🌱 I’m currently learning **Event-Driven architecture**, **zig** and **vim**
+🌱 I’m currently learning **zig** and **vim**
 
 </br>
 
